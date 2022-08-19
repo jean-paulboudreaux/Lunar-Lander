@@ -1,14 +1,3 @@
-// Jean-Paul Boudreaux
-// C00416940
-// CMPS 260
-// Programming Assignment : 05
-// Due Date : April 1, 2022
-// Program Description: In this assignment i am constructing 3 lunar lander objects (runs while lander is in air) that gives the
-//                      user the option to fire the thruster, let the lander free fall, or repeat the last option with
-//                      the same amount of time. Data is calculated depending on which object is chosen.
-// Certificate of Authenticity:
-// I certify that the code in the method function main of this project
-// is entirely my own work.
 package com.company;
 
 import java.util.Scanner;
